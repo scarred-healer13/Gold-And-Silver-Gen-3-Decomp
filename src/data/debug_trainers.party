@@ -18,15 +18,21 @@ Pic: Brendan
 Gender: Male
 Music: Male
 
-Buffie (Wobbuffet)
+Blastoise
 Brave Nature
 Level: 100
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 EVs: 252 Atk / 252 Def / 6 SpA
-- Earthquake
-- Flamethrower
-- Celebrate
-- Celebrate
+- Surf
+- Drill Peck
+
+Scoliopede
+Brave Nature
+Level: 100
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 Atk / 252 Def / 6 SpA
+- Megahorn
+- Poison Jab
 
 === DEBUG_TRAINER_AI ===
 Name: Debugger
@@ -37,29 +43,23 @@ Pic: Steven
 Gender: Male
 Music: Male
 
-Metang
+Lapras
 Brave Nature
-Level: 42
+Level: 100
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 EVs: 252 Atk / 252 Def / 6 SpA
-- Light Screen
-- Psychic
-- Reflect
-- Metal Claw
+- Splash
 
-Skarmory
+Clefable
 Impish Nature
-Level: 43
+Level: 100
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 EVs: 252 HP / 6 SpA / 252 SpD
-- Toxic
-- Aerial Ace
-- Protect
-- Steel Wing
+- Splash
 
 Aggron
 Adamant Nature
-Level: 44
+Level: 100
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 EVs: 252 Atk / 252 SpA / 6 SpD
 - Thunder
